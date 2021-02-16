@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "QrCode";
+}
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <div class="input-group mb-3">
+    <div class="input-group-prepend">
+        <span class="input-group-text" id="inputGroup-sizing-default">URL</span>
+    </div>
+        <input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" name="inputText">
+    </div>
+
+    <input type="submit" value="Generate" class="btn btn-primary" />
+}
+
+</hr>
+
+@if (@ViewBag.QRCode != null)
+{
+    <img src="@ViewBag.QRCode" style="width: 200px; heigh: 200px;">
+}

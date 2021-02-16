@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GfryhmtzMP1v92jHAA4gWk5X1/Vw9zg95R+cvTLT3v7Jb3TLB5ZGGoR/A+h5cYkrG2V/MiGR7Pw4GV2v2gEiA==",
+  "success": true,
+  "projectFilePath": "/home/bernardo/developer/GenerateQrCode/GenerateQrCode.csproj",
+  "expectedPackageFiles": [
+    "/home/bernardo/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/home/bernardo/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/home/bernardo/.nuget/packages/net.codecrete.qrcodegenerator/1.6.1/net.codecrete.qrcodegenerator.1.6.1.nupkg.sha512",
+    "/home/bernardo/.nuget/packages/qrcoder/1.4.1/qrcoder.1.4.1.nupkg.sha512",
+    "/home/bernardo/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
