@@ -3,12 +3,6 @@
 </h1>
 <p align="center">🚀 Um gerador de QrCode, basta digitar uma url quee você terá seu QrCode</p>
 
-<p align="center">
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#rodar">Rodar</a> • 
- <a href="#autor">Autor</a>
-</p>
-
 <h1 align="center">
   <img alt="QrCode" title="#QrCode" src="./assets/banner.png" />
 </h1>
