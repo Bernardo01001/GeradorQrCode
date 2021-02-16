@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Gerador de QrCode</a>
+    <a>🔗 Gerador de QrCode</a>
 </h1>
 <p align="center">🚀 Um gerador de QrCode, basta digitar uma url que você terá seu QrCode</p>
 
